@@ -50,4 +50,4 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ananyaraghav&theme=dark)
 
 [linkedin]: https://www.linkedin.com/in/ananya-raghav-781017191/
-[Resume]: https://drive.google.com/file/d/1tFd0BbGwGrLunPOxbFwTZeIw-qqrjsGR/view?usp=sharing
+[Resume]: https://drive.google.com/file/d/1dJsXz0MRpTkMZgGUK5k8jnC20nPovN9e/view?usp=sharing
